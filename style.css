@@ -1,4 +1,5 @@
 .center{
     max-width: max-content;
     margin: auto;
+    text-align: center;
 }
